@@ -15,4 +15,10 @@ public class RepoLibUtils {
 
         return "I From Lib.";
     }
+
+
+    public static String getLibStr2() {
+
+        return "I From Lib,CC-zz.";
+    }
 }
