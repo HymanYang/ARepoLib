@@ -21,4 +21,10 @@ public class RepoLibUtils {
 
         return "I From Lib,CC-zz.";
     }
+
+
+    public static String getLibStr3() {
+
+        return "cc_3";
+    }
 }
